@@ -1,6 +1,7 @@
 ---
 title: Hayyi SHinshan Mahesa
-role: Sofware engenering
+role: Sofware engineering
+avatar_filename: img_20210828_113512.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
@@ -14,7 +15,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: Stanford University
+  - name: Akakom University
     url: ""
 superuser: true
 ---
